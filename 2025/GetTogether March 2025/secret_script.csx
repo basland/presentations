@@ -5,7 +5,7 @@ using Newtonsoft.Json.Linq;
 
 // You need to signin to https://platform.openai.com/ and create an API key for your profile then paste that key 
 // into the apiKey constant below
-const string apiKey = "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";
+const string apiKey = "<<<your super secret token here>>>";
 const string uri = "https://api.openai.com/v1/chat/completions";
 const string developerMessage = "You are to assume to role of an experienced Power BI consultant. You will be asked to generate descriptions of tables, columns and measures in a Power BI semantic model. These descriptions will be exposed to Power BI end users. The descriptions should be clear and concise and follow standard business language.";
 
