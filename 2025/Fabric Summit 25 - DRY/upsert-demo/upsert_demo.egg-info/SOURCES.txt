@@ -1,0 +1,8 @@
+README.md
+setup.py
+upsert/__init__.py
+upsert/upsert.py
+upsert_demo.egg-info/PKG-INFO
+upsert_demo.egg-info/SOURCES.txt
+upsert_demo.egg-info/dependency_links.txt
+upsert_demo.egg-info/top_level.txt

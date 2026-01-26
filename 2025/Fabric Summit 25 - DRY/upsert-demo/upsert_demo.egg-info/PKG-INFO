@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: upsert-demo
+Version: 1.0
+Summary: A demo.
+Author: Kimura Data Intelligence B.V., The Netherlands
+Author-email: info@kimura.nl
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+
+# This is the readme
+Use markdown to write something beautiful
